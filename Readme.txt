@@ -1,4 +1,4 @@
-At firstselected those data only which were present in training and testing set.
+At first selected those data only which were present in training and testing set.
 Then reduced the size of the images to 120,90 pixels and saved it in npy format.
 Designed our model using residual blocks and skip connections to extract deep features from the images.
 Then applied the model and tuned different hyperparameters like regularizer,optimizers,learning rate decay to improve accuracy.
